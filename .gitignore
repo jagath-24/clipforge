@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/dist/
+
+# Secrets — never commit
+.env
+
+# Local database
+clipforge.db
+
+# Runtime data
+storage/
+temp/
+
+# OS
+Thumbs.db
+.DS_Store
